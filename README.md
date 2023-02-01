@@ -4,7 +4,7 @@ I am an undergrad at IIT Kharagpur pursuing Computer Science and Engineering. I 
 
 -👯 Looking to interact with people
 
--🌱 Learning ML and advanced =algorithms
+-🌱 Learning ML and advanced algorithms
 
 -📫 Reach me at: https://dragmonx.github.io/
 
