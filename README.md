@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-- I am an undergrad at IIT Kharagpur pursuing Computer Science and Engineering. I really like to learn algorithms, solve problems - coding and non-coding and i really love to interact with anyone and everyone. I can code fluently in C++ and python. 
+I am an undergrad at IIT Kharagpur pursuing Computer Science and Engineering. I really like to learn algorithms, solve problems - coding and non-coding and I really love to interact with anyone and everyone. I can code fluently in C++ and python. 
 
 -👯 Looking to interact with people
+
 -🌱 Learning ML and advanced =algorithms
+
 -📫 Reach me at: https://dragmonx.github.io/
 
 <!--
